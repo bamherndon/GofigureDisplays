@@ -10,7 +10,7 @@ Designed to be operated through **Claude Code** using plain English commands.
 
 - Python 3
 - Claude Code with access to this project directory
-- The **`heartland-retail` MCP server** configured in Claude Code (required for Heartland item lookups and catalog refresh)
+- The **`heartland-retail` MCP server** configured in Claude Code (required for Heartland item lookups and catalog refresh) — [bamherndon/HeartlandMCP](https://github.com/bamherndon/HeartlandMCP)
 
 ### Install Python dependencies
 
